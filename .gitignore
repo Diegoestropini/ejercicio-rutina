@@ -1,0 +1,7 @@
+.openai/
+pulso/.openai/
+node_modules/
+*.log
+*-deploy.tar.gz
+.DS_Store
+Thumbs.db
